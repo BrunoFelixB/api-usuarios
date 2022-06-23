@@ -41,6 +41,8 @@ password
 
 Tabela: produtos
 
+deve criar as colunas: 
+
 Idprodutos
 name
 descr
