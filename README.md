@@ -5,7 +5,7 @@ Essa API é capaz de cadastrar um usuário, fazer login e autenticação, criar,
 
 ## Executar o projeto
 
-Projeto Clonar git clone `x`
+Projeto Clonar git clone `https://github.com/BrunoFelixB/api-usuarios.git`
 
 Requisitos de instalação `npm install`
 
