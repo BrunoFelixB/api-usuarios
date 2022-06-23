@@ -29,7 +29,7 @@ Tabela: usuarios
 
 deve criar as colunas: 
 
-Idusers
+idusers
 name
 email
 password
@@ -43,7 +43,7 @@ Tabela: produtos
 
 deve criar as colunas: 
 
-Idprodutos
+idprodutos
 name
 descr
 price
