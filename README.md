@@ -17,7 +17,7 @@ Arquitetura: `o projeto foi feito ultilizando a arquitetura MVC`
 
 Com o MySQL devidamente instalado em sua máquina,
 
-utilize o programa MySQL Workbech - uma ferramenta visual unificada para arquitetos de banco de dados.
+utilize o programa MySQL Workbench - uma ferramenta visual unificada para arquiteturas de banco de dados.
 
 Crie o banco de dados nomeado de `database` e para o Armazenamento crei as Tabelas: 
 
