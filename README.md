@@ -73,12 +73,15 @@ http://localhost:8080/create
 
 devem ser passados pelo body em JSON os seguintes comandos: 
 
+```
+
 {
     "nome": "string",
     "email": "string",
     "password": "string"
 }
 
+```
 
 Isso irá armazenar o usuário no banco de dados dentro da tabela usuários.
 
